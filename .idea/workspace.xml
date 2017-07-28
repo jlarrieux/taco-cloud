@@ -2,6 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e22ab56a-c5ae-495e-987d-6280d6aaf6a9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/file-changes/last-build.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5/file-changes/last-build.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5/fileContent/annotation-processors.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5/fileContent/fileContent.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileHashes.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileSnapshots.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/jvmClassSignatures.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/jlarrieux/learning/taco_cloud/App.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/jlarrieux/learning/taco_cloud/Controller/HomeController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/test/com/jlarriuex/learning/test/AppTests.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/test/com/jlarriuex/learning/test/ControllerTest/HomeControllerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/libs/taco cloud-0.0.1-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/libs/taco cloud-0.0.1-SNAPSHOT.jar.original" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/main/static/images/TacoCloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/images/TacoCloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/taco_cloud.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/taco_cloud_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/taco_cloud_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.jlarriuex.learning.test.AppTests.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.jlarriuex.learning.test.ControllerTest.HomeControllerTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.jlarriuex.learning.test.ControllerTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.jlarriuex.learning.test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/main/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.jlarriuex.learning.test.AppTests.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.jlarriuex.learning.test.ControllerTest.HomeControllerTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jlarrieux/learning/taco_cloud/Controller/HomeController.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jlarrieux/learning/taco_cloud/test/ControllerTest/HomeControllerTest.java" />
@@ -40,11 +84,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppTests.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AppTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/jlarrieux/learning/taco_cloud/test/AppTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="550">
               <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-675">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -599,6 +653,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -748,7 +803,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501204933811</updated>
-      <workItem from="1501204935131" duration="3555000" />
+      <workItem from="1501204935131" duration="4081000" />
     </task>
     <servers />
   </component>
@@ -779,11 +834,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3555000" />
+    <option name="totallyTimeSpent" value="4081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="3862" height="1998" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -804,9 +858,9 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47189096" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47189096" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299262" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50539464" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986738" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -872,6 +926,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
