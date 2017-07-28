@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/taco-cloud.iml" filepath="$PROJECT_DIR$/taco-cloud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/taco-cloud_main.iml" filepath="$PROJECT_DIR$/.idea/modules/taco-cloud_main.iml" group="taco-cloud" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/taco-cloud_test.iml" filepath="$PROJECT_DIR$/.idea/modules/taco-cloud_test.iml" group="taco-cloud" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/taco_cloud.iml" filepath="$PROJECT_DIR$/.idea/modules/taco_cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/taco_cloud_main.iml" filepath="$PROJECT_DIR$/.idea/modules/taco_cloud_main.iml" group="taco_cloud" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/taco_cloud_test.iml" filepath="$PROJECT_DIR$/.idea/modules/taco_cloud_test.iml" group="taco_cloud" />
     </modules>
   </component>
 </project>

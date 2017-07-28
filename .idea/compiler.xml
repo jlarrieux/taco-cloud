@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="taco-cloud_main" target="1.8" />
-      <module name="taco-cloud_test" target="1.8" />
+      <module name="taco_cloud_main" target="1.8" />
+      <module name="taco_cloud_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
